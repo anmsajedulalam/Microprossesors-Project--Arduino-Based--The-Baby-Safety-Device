@@ -8,5 +8,5 @@ YouTube Videos:
 
 Stage 1, June 16, 2017 :  https://youtu.be/fqcSqieKVU0  
 Stage 2, Aug 22, 2017  :  https://youtu.be/fqcSqieKVU0  
-Stage 3, Aug 22, 2017  :  https://youtu.be/FaGmUT5072w
+Stage 3, Aug 22, 2017  :  https://youtu.be/FaGmUT5072w  
 
