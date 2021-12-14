@@ -4,8 +4,8 @@
  
 This project's proposal paper: https://drive.google.com/file/d/0B2W_ol4JUthCS19XU20taEdBRUE/view?usp=sharing
 
-Youtube Videos: 
+YouTube Videos: 
 
-a. Stage 1 (June 16, 2017):  https://youtu.be/fqcSqieKVU0
-b. Stage 2 (Aug 22, 2017):   https://youtu.be/fqcSqieKVU0
-c. Stage 3 (Aug 22, 2017):   https://youtu.be/FaGmUT5072w
+Stage_1 (June 16, 2017): https://youtu.be/fqcSqieKVU0
+Stage_2 (Aug 22, 2017): https://youtu.be/fqcSqieKVU0
+Stage_3 (Aug 22, 2017): https://youtu.be/FaGmUT5072w
